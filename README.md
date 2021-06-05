@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=diegobmzero.diegobmzero)
 
-<h3 align="center">A developer from Brazil</h3>
+<h3 align="center">A father, husband, gamer and developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Laborclin](https://github.com/Laborclin/)
 
