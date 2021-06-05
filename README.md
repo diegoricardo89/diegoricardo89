@@ -1,15 +1,16 @@
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
+  
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Diego Ricardo</h1>
 
 <a href="https://www.linkedin.com/in/diegobmzero/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=diegobmzero.diegobmzero)
 
 <h3 align="center">A father, husband, gamer and developer from Brazil</h3>
+</div>
 
 - 🔭 I’m currently working on [Laborclin](https://github.com/Laborclin/)
 
@@ -26,7 +27,9 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegobmzero&show_icons=true&theme=gotham" alt="DiegoBmZero" />
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=diegobmzero&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   
+<div align="center">
 Have a great day 🙏
   
 > “Talent hits a target no one else can hit. Genius hits a target no one else can see.”
 ― Arthur Schopenhauer 
+ </div>
