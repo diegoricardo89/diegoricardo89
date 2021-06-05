@@ -27,3 +27,6 @@
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=diegobmzero&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   
 Have a great day 🙏
+  
+> “Talent hits a target no one else can hit. Genius hits a target no one else can see.”
+― Arthur Schopenhauer 
