@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/diegobmzero/">
   <img align="center" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-\
+
 ![](https://visitor-badge.glitch.me/badge?page_id=diegobmzero.diegobmzero)
 
 <h3 align="center">A father, husband, gamer and developer from Brazil</h3>
