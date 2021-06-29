@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Laborclin](https://www.laborclin.com.br/)
 
-- 🌱 I’m currently learning **IA and big data**
+- 🌱 I’m currently learning **IA, big data and Kotlin**
 
 - 📫 Reach me in **diego.ricardo@bmzero.com.br**
 
