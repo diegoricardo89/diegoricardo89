@@ -10,7 +10,7 @@
 <h3 align="center">A father, husband, gamer and developer from Brazil</h3>
 </div>
 
-- 🔭 I’m currently working on [Laborclin](https://www.laborclin.com.br/)
+- 🔭 I’m currently working on [Condor](https://www.condor.com.br/)
 
 - 🌱 I’m currently learning **IA, big data and Kotlin**
 
