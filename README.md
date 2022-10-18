@@ -7,10 +7,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=diegobmzero.diegobmzero)
 
-<h3 align="center">A father, husband, gamer and developer from Brazil</h3>
+<h3 align="center">A brazilian father, husband, gamer and developer living in Portugal</h3>
 </div>
 
-- 🔭 I’m currently working on [Condor](https://www.condor.com.br/)
+- 🔭 I’m currently working as freelancer developer)
 
 - 🌱 I’m currently learning **IA, big data and Kotlin**
 
