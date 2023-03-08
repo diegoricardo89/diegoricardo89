@@ -5,8 +5,6 @@
 
 [![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=flat&logo=linkedin)](https://www.linkedin.com/in/diegoricardo89/)
 
-![](https://visitor-badge.glitch.me/badge?page_id=diegoricardo89.diegoricardo89)
-
 <h3 align="center">A brazilian father, husband, gamer and developer living in Portugal</h3>
 </div>
 
