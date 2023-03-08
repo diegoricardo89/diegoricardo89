@@ -8,7 +8,7 @@
 <h3 align="center">A brazilian father, husband, gamer and developer living in Portugal</h3>
 </div>
 
-- 🔭 I’m currently working as freelancer developer)
+- 🔭 I’m currently working as freelancer developer
 
 - 🌱 I’m currently learning **IA, big data and Kotlin**
 
